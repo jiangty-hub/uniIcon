@@ -49,10 +49,10 @@
     "category": "炒饭"
   },
   {
-    "name": "面条",
+    "name": "面食",
     "icon": "https://raw.githubusercontent.com/jiangty-hub/uniIcon/main/noodle.png",
     "open_type": "switchTab",
     "url": "/pages/category/category",
-    "category": "面条"
+    "category": "面食"
   }
 ]
