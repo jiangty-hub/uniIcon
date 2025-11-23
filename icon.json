@@ -35,11 +35,11 @@
     "category": "海鲜"
   },
   {
-    "name": "点心",
+    "name": "甜品",
     "icon": "https://raw.githubusercontent.com/jiangty-hub/uniIcon/main/dessert.png",
     "open_type": "switchTab",
     "url": "/pages/category/category",
-    "category": "点心"
+    "category": "甜品"
   },
   {
     "name": "炒饭",
