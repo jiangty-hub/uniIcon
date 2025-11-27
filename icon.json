@@ -4,55 +4,55 @@
     "icon": "https://raw.githubusercontent.com/jiangty-hub/uniIcon/main/beef.png",
     "open_type": "switchTab",
     "url": "/pages/category/category",
-    "category": "牛肉"
+    "category": "牛肉类"
   },
   {
     "name": "羊肉",
     "icon": "https://raw.githubusercontent.com/jiangty-hub/uniIcon/main/mutton.png",
     "open_type": "switchTab",
     "url": "/pages/category/category",
-    "category": "羊肉"
+    "category": "羊肉类"
   },
   {
     "name": "鸡肉",
     "icon": "https://raw.githubusercontent.com/jiangty-hub/uniIcon/main/chicken.png",
     "open_type": "switchTab",
     "url": "/pages/category/category",
-    "category": "鸡肉"
+    "category": "鸡肉类"
   },
   {
     "name": "猪肉",
     "icon": "https://raw.githubusercontent.com/jiangty-hub/uniIcon/main/pork.png",
     "open_type": "switchTab",
     "url": "/pages/category/category",
-    "category": "猪肉"
+    "category": "猪肉类"
   },
   {
     "name": "海鲜",
     "icon": "https://raw.githubusercontent.com/jiangty-hub/uniIcon/main/seafood.png",
     "open_type": "switchTab",
     "url": "/pages/category/category",
-    "category": "海鲜"
+    "category": "海鲜类"
   },
   {
     "name": "甜品",
     "icon": "https://raw.githubusercontent.com/jiangty-hub/uniIcon/main/dessert.png",
     "open_type": "switchTab",
     "url": "/pages/category/category",
-    "category": "甜品"
+    "category": "甜品类"
   },
   {
     "name": "炒饭",
     "icon": "https://raw.githubusercontent.com/jiangty-hub/uniIcon/main/friedrice.png",
     "open_type": "switchTab",
     "url": "/pages/category/category",
-    "category": "炒饭"
+    "category": "炒饭类"
   },
   {
     "name": "面食",
     "icon": "https://raw.githubusercontent.com/jiangty-hub/uniIcon/main/noodle.png",
     "open_type": "switchTab",
     "url": "/pages/category/category",
-    "category": "面食"
+    "category": "面食类"
   }
 ]
